@@ -1,0 +1,26 @@
+{
+  "name": "reactpractice",
+  "version": "1.0.0",
+  "description": "learnreact",
+  "homepage": "https://github.com/Pulasani-Aswini/NamasteReact#readme",
+  "bugs": {
+    "url": "https://github.com/Pulasani-Aswini/NamasteReact/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pulasani-Aswini/NamasteReact.git"
+  },
+  "license": "ISC",
+  "author": "AswiniPulasani",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
